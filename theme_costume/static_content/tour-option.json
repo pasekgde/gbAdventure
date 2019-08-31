@@ -1,0 +1,50 @@
+{
+	"1": {
+		"name": "Kintamani Cycling Tour",
+		"img": "cycling/c13.jpg",
+		"brief": "See the real Bali on bike and learn its culture",
+		"link" : "home/tour/1"
+	},
+	"2": {
+		"name": "Electric Bike",
+		"img": "electric/el10.jpg",
+		"brief": "Cycle around ubud with electric bike, padle as much or as less as you want",
+		"link" : "home/tour/2"
+	},
+	"3": {
+		"name": "Classic Adventure Bike",
+		"img": "classic/cs5.jpg",
+		"brief": "Explore Bali with an classic experience and more",
+		"link" : "home/tour/7"
+	},
+	"4": {
+		"name": "Combo Bike & ATV Tour",
+		"img": "comboATV/ca12.jpg",
+		"brief": "Cycling through countryside and Explore dirt terrain with ATV ",
+		"link" : "home/tour/3"
+	},
+	"5": {
+		"name": "Combo Bike & Rafting Tour",
+		"img": "comboRafting/ra8.jpg",
+		"brief": "Cycling through countryside and rafting on famous Ayung river",
+		"link" : "home/tour/4"
+	},
+	"6": {
+		"name": "Sunrise Trekking",
+		"img": "sunrise/su13.jpg",
+		"brief": "Capture incredible sunrise from a volcano",
+		"link" : "home/tour/5"
+	},
+	"7": {
+		"name": "Ubud Trekking",
+		"img": "greentrek/gt6.jpg",
+		"brief": "Explore non touristy rice fild while learning how rice are grown",
+		"link" : "home/tour/6"
+	},
+	"8": {
+		"name": "Tamblingan Trekking",
+		"img": "tamblingan/rf6.jpg",
+		"brief": "Hike on Bali's most beautiful rainforest",
+		"link" : "home/tour/8"
+	}
+}

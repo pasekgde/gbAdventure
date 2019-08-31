@@ -1,0 +1,16 @@
+[20-May-2019 11:08:43 Asia/Jakarta] PHP Fatal error:  Class 'CI_Controller' not found in /home/greenbike/public_html/dev/system/core/CodeIgniter.php on line 366
+[20-May-2019 11:08:44 Asia/Jakarta] PHP Fatal error:  Class 'CI_Controller' not found in /home/greenbike/public_html/dev/system/core/CodeIgniter.php on line 366
+[20-May-2019 11:48:08 Asia/Jakarta] PHP Fatal error:  Class 'CI_Controller' not found in /home/greenbike/public_html/dev/system/core/CodeIgniter.php on line 366
+[20-May-2019 11:48:08 Asia/Jakarta] PHP Fatal error:  Class 'CI_Controller' not found in /home/greenbike/public_html/dev/system/core/CodeIgniter.php on line 366
+[07-Jun-2019 05:27:55 Asia/Jakarta] PHP Fatal error:  Class 'CI_Controller' not found in /home/greenbike/public_html/dev2/system/core/CodeIgniter.php on line 366
+[07-Jun-2019 08:06:07 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '$msg' (T_VARIABLE) in /home/greenbike/public_html/dev2/application/controllers/Home.php on line 299
+[07-Jun-2019 12:06:10 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ')' in /home/greenbike/public_html/dev2/application/controllers/Home.php on line 245
+[07-Jun-2019 12:10:16 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ';' in /home/greenbike/public_html/dev2/application/controllers/Home.php on line 245
+[09-Jun-2019 06:34:18 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '}' in /home/greenbike/public_html/dev2/application/controllers/Home.php on line 299
+[09-Jun-2019 07:58:37 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'html' (T_STRING) in /home/greenbike/public_html/greenbikeadventure/application/controllers/Home.php on line 112
+[09-Jun-2019 08:05:34 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/greenbike/public_html/greenbikeadventure/application/controllers/Home.php on line 107
+[13-Jun-2019 07:36:40 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file in /home/greenbike/public_html/greenbikeadventure/application/controllers/Home.php on line 245
+[07-Jul-2019 18:04:57 Asia/Jakarta] PHP Fatal error:  Call to a member function getTimestamp() on boolean in /home/greenbike/public_html/greenbikeadventure/application/controllers/Home.php on line 290
+[16-Jul-2019 23:20:26 Asia/Jakarta] PHP Fatal error:  Call to a member function getTimestamp() on boolean in /home/greenbike/public_html/greenbikeadventure/application/controllers/Home.php on line 292
+[16-Jul-2019 23:23:52 Asia/Jakarta] PHP Fatal error:  Call to a member function getTimestamp() on boolean in /home/greenbike/public_html/greenbikeadventure/application/controllers/Home.php on line 296
+[17-Jul-2019 17:29:12 Asia/Jakarta] PHP Fatal error:  Call to undefined function STR_TO_DATE() in /home/greenbike/public_html/greenbikeadventure/application/controllers/Home.php on line 300

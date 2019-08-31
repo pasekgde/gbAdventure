@@ -1,0 +1,18 @@
+.fade-enter-active, .fade-leave-active {
+    transition: opacity 0.5s!important
+}
+.fade-enter, .fade-leave-to /* .fade-leave-active in <2.1.8 */ {
+    opacity: 0!important
+}
+
+
+div.hiddenDode{
+	display: none!important;
+}
+
+.invalid {
+  background: hsla(0, 90%, 70%, 1)!important;
+}
+.has-text-danger{
+    color: red;
+}
